@@ -1,0 +1,10 @@
+hostname = 7mmtv.tv
+
+
+# Advertising Block
+# > 7mmtv
+^https?:\/\/7mmtv\.tv\/js\/ad_js\/ url reject
+
+
+
+
