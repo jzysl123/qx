@@ -4,7 +4,7 @@ hostname = 7mmtv.tv
 # Advertising Block
 # > 7mmtv
 ^https?:\/\/7mmtv\.tv\/js\/ad_js\/ url reject
-^https?:\/\/.*7mmtv\.tv\/(.{1,8})_banner\/ url reject
+^https?:\/\/.*7mmtv\.tv\/.*_banner\/ url reject
 
 
 
