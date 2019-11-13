@@ -1,4 +1,4 @@
-hostname = 7mmtv.tv
+hostname = 7mmtv.tv,*.7mmtv.tv
 
 
 # Advertising Block
