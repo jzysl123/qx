@@ -1,5 +1,12 @@
 # This rule does not include shenji
 
+
+#daishuxiazai
+DOMAIN-SUFFIX,pstatp.com,REJECT
+DOMAIN-SUFFIX,supersonicads.com,REJECT
+DOMAIN-SUFFIX,api.budejie.com,REJECT
+
+
 #7mmtv
 DOMAIN-SUFFIX,histats.com,REJECT
 DOMAIN-SUFFIX,o333o.com,REJECT
