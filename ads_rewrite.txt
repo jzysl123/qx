@@ -10,6 +10,6 @@ hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com
 ^https?:\/\/btos\.pw\/(.{1,})\/img\/b72890\.jpg url reject
 
 # > javlibrary
-^https?:\/\/www\.(javlibrary|h28o)\.com\/js\/img\/bnr_ url reject
-^https?:\/\/www\.(javlibrary|h28o)\.com\/js\/advertisement\. url reject
+^http:\/\/www\.(javlibrary|h28o)\.com\/js\/img\/bnr_ url reject
+^http:\/\/www\.(javlibrary|h28o)\.com\/js\/advertisement\. url reject
 
