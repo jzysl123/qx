@@ -1,6 +1,12 @@
 # This rule does not include shenji
 
 
+#btos.pw
+DOMAIN-SUFFIX,popcash.net,REJECT
+DOMAIN-SUFFIX,popads.net,REJECT
+DOMAIN-SUFFIX,bitport.io,REJECT
+
+
 #daishuxiazai
 DOMAIN-SUFFIX,pstatp.com,REJECT
 DOMAIN-SUFFIX,api.budejie.com,REJECT

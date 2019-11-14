@@ -1,4 +1,4 @@
-hostname = 7mmtv.tv,*.7mmtv.tv
+hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw
 
 
 # Advertising Block
@@ -6,6 +6,5 @@ hostname = 7mmtv.tv,*.7mmtv.tv
 ^https?:\/\/7mmtv\.tv\/js\/ad_js\/ url reject
 ^https?:\/\/(.{1,})\.7mmtv\.tv\/(.{1,8})_banner\/ url reject
 
-
-
-
+# > btos.pw
+^https?:\/\/btos\.pw\/(.{1,})\/img\/b72890\.jpg url reject
