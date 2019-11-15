@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com,REJECT
 DOMAIN-SUFFIX,b.smartvideo.youku.com,REJECT
 DOMAIN-SUFFIX,c.yes.youku.com,REJECT
 DOMAIN-SUFFIX,das.api.youku.com,REJECT
+DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,das.mobile.youku.com,REJECT
 DOMAIN-SUFFIX,dev-push.m.youku.com,REJECT
 DOMAIN-SUFFIX,dl.g.youku.com,REJECT
