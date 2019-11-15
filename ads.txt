@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,popcash.net,REJECT
 DOMAIN-SUFFIX,popads.net,REJECT
 DOMAIN-SUFFIX,tsyndolls.com,REJECT
 DOMAIN-SUFFIX,cloudfront.net,REJECT
+DOMAIN-SUFFIX,fingahvf.top,REJECT
+DOMAIN-SUFFIX,puhtml.com,REJECT
 
 
 #daishuxiazai
@@ -1964,14 +1966,12 @@ DOMAIN-SUFFIX,c1.ifengimg.com,REJECT
 DOMAIN-SUFFIX,c1.keyrun.cn,REJECT
 DOMAIN-SUFFIX,c1.lianwangtech.com,REJECT
 DOMAIN-SUFFIX,c1.minisplat.cn,REJECT
-DOMAIN-SUFFIX,c1.popads.net,REJECT
 DOMAIN-SUFFIX,c1.statcounter.com,REJECT
 DOMAIN-SUFFIX,c1.ulink.cc,REJECT
 DOMAIN-SUFFIX,c1.wkanx.com,REJECT
 DOMAIN-SUFFIX,c1.xcy8.com,REJECT
 DOMAIN-SUFFIX,c16cp358.com,REJECT
 DOMAIN-SUFFIX,c2.58toto.net,REJECT
-DOMAIN-SUFFIX,c2.popads.net,REJECT
 DOMAIN-SUFFIX,c2.statcounter.com,REJECT
 DOMAIN-SUFFIX,c3.gostats.cn,REJECT
 DOMAIN-SUFFIX,c3.moogos.com,REJECT
@@ -2495,24 +2495,16 @@ DOMAIN-SUFFIX,d1.showself.com,REJECT
 DOMAIN-SUFFIX,d1.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d1.sinaimg.cn,REJECT
 DOMAIN-SUFFIX,d1ad.com,REJECT
-DOMAIN-SUFFIX,d1grtyyel8f1mh.cloudfront.net,REJECT
-DOMAIN-SUFFIX,d1zgderxoe1a.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d2.sinaimg.cn,REJECT
 DOMAIN-SUFFIX,d2.yiche.com,REJECT
-DOMAIN-SUFFIX,d29qt51jeyi6xb.cloudfront.net,REJECT
-DOMAIN-SUFFIX,d2qkpebv23oowx.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d3.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d3.sinaimg.cn,REJECT
-DOMAIN-SUFFIX,d31qbv1cthcecs.cloudfront.net,REJECT
-DOMAIN-SUFFIX,d36eyd5j1kt1m6.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d3f.houyi.baofeng.net,REJECT
 DOMAIN-SUFFIX,d3g.qq.com,REJECT
-DOMAIN-SUFFIX,d3v1lb83psg9di.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d4.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d5.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d520m.gzcl999.cn,REJECT
-DOMAIN-SUFFIX,d5nxst8fruw4z.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d5p.de17a.com,REJECT
 DOMAIN-SUFFIX,d6.sina.com.cn,REJECT
 DOMAIN-SUFFIX,d6.sinaimg.cn,REJECT
@@ -2731,7 +2723,6 @@ DOMAIN-SUFFIX,dm.jinshasi.cn,REJECT
 DOMAIN-SUFFIX,dm.jsyst.cn,REJECT
 DOMAIN-SUFFIX,dm.jy135.com,REJECT
 DOMAIN-SUFFIX,dm.ppzuowen.com,REJECT
-DOMAIN-SUFFIX,dm.pstatp.com,REJECT
 DOMAIN-SUFFIX,dm.pw0.cn,REJECT
 DOMAIN-SUFFIX,dm.riji.cn,REJECT
 DOMAIN-SUFFIX,dm.sanwen.net,REJECT
@@ -5485,7 +5476,6 @@ DOMAIN-SUFFIX,o.if.qidian.com,REJECT
 DOMAIN-SUFFIX,o.minisplat.cn,REJECT
 DOMAIN-SUFFIX,o091i.com,REJECT
 DOMAIN-SUFFIX,o2omobi.com,REJECT
-DOMAIN-SUFFIX,o7xs6runw.bkt.clouddn.com,REJECT
 DOMAIN-SUFFIX,oa129.com,REJECT
 DOMAIN-SUFFIX,oadz.com,REJECT
 DOMAIN-SUFFIX,oa-panther.data.aliyun.com,REJECT
@@ -5670,7 +5660,6 @@ DOMAIN-SUFFIX,pb.s3wfg.com,REJECT
 DOMAIN-SUFFIX,pb.sogou.com,REJECT
 DOMAIN-SUFFIX,pb.sys.pp8.com,REJECT
 DOMAIN-SUFFIX,pb.wang502.com,REJECT
-DOMAIN-SUFFIX,pb3.pstatp.com,REJECT
 DOMAIN-SUFFIX,pbd.sogou.com,REJECT
 DOMAIN-SUFFIX,pbs.lenovomm.com,REJECT
 DOMAIN-SUFFIX,pc.107788.com,REJECT
@@ -5815,7 +5804,6 @@ DOMAIN-SUFFIX,pop.91mangrandi.com,REJECT
 DOMAIN-SUFFIX,pop.code.mytanwan.com,REJECT
 DOMAIN-SUFFIX,pop.code.poyang.cn,REJECT
 DOMAIN-SUFFIX,pop.sjk.ijinshan.com,REJECT
-DOMAIN-SUFFIX,popads.net,REJECT
 DOMAIN-SUFFIX,popme.163.com,REJECT
 DOMAIN-SUFFIX,popup.jointreport-switch.com,REJECT
 DOMAIN-SUFFIX,popup.msn.com,REJECT
@@ -6428,7 +6416,6 @@ DOMAIN-SUFFIX,sell1.etlong.com,REJECT
 DOMAIN-SUFFIX,sensorsdata.ruguoapp.com,REJECT
 DOMAIN-SUFFIX,serial.alcohol-soft.com,REJECT
 DOMAIN-SUFFIX,serrano.hardwareheaven.com,REJECT
-DOMAIN-SUFFIX,serve.popads.net,REJECT
 DOMAIN-SUFFIX,servedby.keygamesnetwork.com,REJECT
 DOMAIN-SUFFIX,server.m.pp.cn,REJECT
 DOMAIN-SUFFIX,service.ad.adesk.com,REJECT
