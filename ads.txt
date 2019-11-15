@@ -4,7 +4,8 @@
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
 DOMAIN-SUFFIX,popads.net,REJECT
-DOMAIN-SUFFIX,bitport.io,REJECT
+DOMAIN-SUFFIX,tsyndolls.com,REJECT
+DOMAIN-SUFFIX,cloudfront.net,REJECT
 
 
 #daishuxiazai
