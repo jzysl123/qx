@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,puhtml.com,REJECT
 
 
 #daishuxiazai
-DOMAIN-SUFFIX,pstatp.com,REJECT
+#DOMAIN-SUFFIX,pstatp.com,REJECT
 DOMAIN-SUFFIX,api.budejie.com,REJECT
 DOMAIN-SUFFIX,bkt.clouddn.com,REJECT
 
