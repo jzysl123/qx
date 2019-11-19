@@ -4627,7 +4627,6 @@ DOMAIN-SUFFIX,load77.exelator.com,REJECT
 DOMAIN-SUFFIX,loading.baofeng5.baofeng.net,REJECT
 DOMAIN-SUFFIX,loadm.exelator.com,REJECT
 DOMAIN-SUFFIX,loandatec.com,REJECT
-DOMAIN-SUFFIX,localnetwork.uop,REJECT
 DOMAIN-SUFFIX,location.ximalaya.com,REJECT
 DOMAIN-SUFFIX,locdrop.query.yahoo.com,REJECT
 DOMAIN-SUFFIX,log1.17173.com,REJECT
