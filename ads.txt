@@ -2,7 +2,7 @@
 
 
 
-#delete localnetwork.uop deng jinritoutiaosousuokongbaiwenting
+# delete localnetwork等 今日头条搜索空白
 
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
