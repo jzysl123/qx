@@ -6862,7 +6862,6 @@ DOMAIN-SUFFIX,tdcv3.talkingdata.net,REJECT
 DOMAIN-SUFFIX,t-e.flyme.cn,REJECT
 DOMAIN-SUFFIX,teen.77rog.com,REJECT
 DOMAIN-SUFFIX,telstra.imrworldwide.com,REJECT
-DOMAIN-SUFFIX,temai.snssdk.com,REJECT
 DOMAIN-SUFFIX,temai.taobao.com,REJECT
 DOMAIN-SUFFIX,temp.163.com,REJECT
 DOMAIN-SUFFIX,tencentmind.com,REJECT
@@ -7984,4 +7983,3 @@ DOMAIN-SUFFIX,zzy1.quyaoya.com,REJECT
 DOMAIN-SUFFIX,zzz7.52896368.com,REJECT
 DOMAIN-SUFFIX,zzzzz4.52896368.com,REJECT
 DOMAIN-SUFFIX,analytics.query.yahoo.com,REJECT
-DOMAIN-SUFFIX,is.snssdk.com,REJECT
