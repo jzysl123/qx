@@ -2,7 +2,9 @@
 
 
 
-# delete localnetwork等 今日头条搜索空白
+# delete localnetwork
+
+
 
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
