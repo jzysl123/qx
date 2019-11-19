@@ -1,6 +1,9 @@
 # This rule does not include shenji
 
 
+
+#删除localnetwork.uop等 今日头条搜索空白问题
+
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
 DOMAIN-SUFFIX,popads.net,REJECT
