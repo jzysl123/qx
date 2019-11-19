@@ -2835,7 +2835,6 @@ DOMAIN-SUFFIX,dsp.hypers.com.cn,REJECT
 DOMAIN-SUFFIX,dsp.pro.cn,REJECT
 DOMAIN-SUFFIX,dsp.send.microad-cn.com,REJECT
 DOMAIN-SUFFIX,dsp.simba.taobao.com,REJECT
-DOMAIN-SUFFIX,dsp.toutiao.com,REJECT
 DOMAIN-SUFFIX,dsp.youdao.com,REJECT
 DOMAIN-SUFFIX,ds-pc.admsger.com,REJECT
 DOMAIN-SUFFIX,dsp-click.youdao.com,REJECT
@@ -5358,7 +5357,6 @@ DOMAIN-SUFFIX,nai.cpxkvc.com,REJECT
 DOMAIN-SUFFIX,namedq.com,REJECT
 DOMAIN-SUFFIX,namemek.com,REJECT
 DOMAIN-SUFFIX,naqigs.com,REJECT
-DOMAIN-SUFFIX,nativeapp.toutiao.com,REJECT
 DOMAIN-SUFFIX,nav.winasdaq.com,REJECT
 DOMAIN-SUFFIX,navi.gd.chinamobile.com,REJECT
 DOMAIN-SUFFIX,nbhxgjz.com,REJECT
@@ -5635,7 +5633,6 @@ DOMAIN-SUFFIX,parser.houyi.baofeng.net,REJECT
 DOMAIN-SUFFIX,partner.bargaindomains.com,REJECT
 DOMAIN-SUFFIX,partner.catchy.com,REJECT
 DOMAIN-SUFFIX,partner.premiumdomains.com,REJECT
-DOMAIN-SUFFIX,partner.toutiao.com,REJECT
 DOMAIN-SUFFIX,partners.fshealth.com,REJECT
 DOMAIN-SUFFIX,partners.keezmovies.com,REJECT
 DOMAIN-SUFFIX,partners.optiontide.com,REJECT
