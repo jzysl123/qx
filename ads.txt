@@ -1,10 +1,13 @@
 # This rule does not include shenji
 
 
+#btmayi.xyz
+DOMAIN-SUFFIX,img.gxhxmy88.com,REJECT
+DOMAIN-SUFFIX,claiks.com,REJECT
+
+
 
 # delete localnetwork 解决今日头条搜索空白
-
-
 
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
