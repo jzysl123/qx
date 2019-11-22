@@ -15,7 +15,7 @@ hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tz
 ^http:\/\/www\.(javlibrary|h28o)\.com\/js\/(bnr_(.{1,})|advertisement) url reject
 
 # > tzfile.com
-^https:\/\/b\.apkgm\.top\/wp-content\/uploads\/.+(jpg|png|gif) url reject
-^https:\/\/ae01\.alicdn\.com\/kf\/.+(jpg|png|gif) url reject
+^https:\/\/b\.apkgm\.top\/wp-content\/uploads\/.+(jpg|png|gif) url reject-img
+^https:\/\/ae01\.alicdn\.com\/kf\/.+(jpg|png|gif) url reject-img
 
 
