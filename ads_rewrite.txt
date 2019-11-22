@@ -1,4 +1,4 @@
-hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io
+hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com
 
 
 # Advertising Block
@@ -11,8 +11,11 @@ hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io
 ^https?:\/\/bitport\.io\/(.{1,})\/banners\/600x100 url reject
 
 
-
 # > javlibrary
 ^http:\/\/www\.(javlibrary|h28o)\.com\/js\/(bnr_(.{1,})|advertisement) url reject
+
+# > tzfile.com
+^http:\/\/b\.apkgm\.top\/wp-content\/uploads\/.+(jpg|png|gif) url reject
+^http:\/\/ae01\.alicdn\.com\/kf\/.+(jpg|png|gif) url reject
 
 
