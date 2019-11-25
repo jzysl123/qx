@@ -631,12 +631,7 @@ DOMAIN-SUFFIX,www.emar.com.cn,REJECT
 DOMAIN-SUFFIX,c.duomai.com,REJECT
 DOMAIN-SUFFIX,duomai.com,REJECT
 DOMAIN-SUFFIX,www.shuzilm.cn,REJECT
-255.255.255.255	broadcasthost,REJECT
-::1             localhost,REJECT
-DOMAIN-SUFFIX,localhost,REJECT
-::1             ip6-localhost,REJECT
 DOMAIN-SUFFIX,www.2144.cn,REJECT
-13.107.21.200 cn.bing.com,REJECT
 DOMAIN-SUFFIX,jifendownload.2345.cn,REJECT
 DOMAIN-SUFFIX,www.xiniuz.com,REJECT
 DOMAIN-SUFFIX,pdown.stat.360safe.com,REJECT
