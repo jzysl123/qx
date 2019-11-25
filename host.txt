@@ -190,7 +190,6 @@ DOMAIN-SUFFIX,tob-cms.bj.bcebos.com,REJECT
 DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com,REJECT
 DOMAIN-SUFFIX,uat1.bfsspadserver.8le8le.com,REJECT
 DOMAIN-SUFFIX,cpu-baidu-com-block.cdn.bcebos.com,REJECT
-,REJECT
 DOMAIN-SUFFIX,andmlbf.tj.ijinshan.com,REJECT
 DOMAIN-SUFFIX,a.cnzz.com,REJECT
 DOMAIN-SUFFIX,c.cnzz.com,REJECT
