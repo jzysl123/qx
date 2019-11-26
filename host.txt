@@ -7465,7 +7465,6 @@ HOST,www.raossycpodtr.bid,REJECT
 HOST,www.realasianexposed.com,REJECT
 HOST,www.reallatinaexposed.com,REJECT
 HOST,www.reallesbianexposed.com,REJECT
-HOST,www.recaptcha.net,REJECT
 HOST,www.reseireejoch.info,REJECT
 HOST,www.rh31.com,REJECT
 HOST,www.rhcapass.com,REJECT
