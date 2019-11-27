@@ -16,4 +16,4 @@ hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tz
 
 
 # > zxzjs.com
-^https:\/\/tva.\.sinaimg\.cn\/Large\/(.{1,})jpg url reject
+^https:\/\/tva.\.sinaimg\.cn\/large\/(.{1,})jpg url reject
