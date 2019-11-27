@@ -11350,7 +11350,6 @@ DOMAIN-SUFFIX,li.anyysz.com,REJECT
 DOMAIN-SUFFIX,liangao.com,REJECT
 DOMAIN-SUFFIX,lib.haotv8.com,REJECT
 DOMAIN-SUFFIX,liba.haotv8.com,REJECT
-DOMAIN-SUFFIX,libs.baidu.com,REJECT
 DOMAIN-SUFFIX,license.lumion3d.com,REJECT
 DOMAIN-SUFFIX,license.lumion3d.net,REJECT
 DOMAIN-SUFFIX,licenses.ashampoo.com,REJECT
