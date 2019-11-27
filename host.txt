@@ -174,7 +174,6 @@ HOST,caclick.baidu.com,REJECT
 HOST,cm.pos.baidu.com,REJECT
 HOST,cpucdn.baidu.com,REJECT
 HOST,publish-pic-cpu.baidu.com,REJECT
-HOST,hm.baidu.com,REJECT
 HOST,idm.bce.baidu.com,REJECT
 HOST,mobads-logs.baidu.com,REJECT
 HOST,mobads.baidu.com,REJECT
