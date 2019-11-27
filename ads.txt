@@ -1,7 +1,7 @@
 # This rule does not include shenji
 
 
-# delete localnetwork 解决今日头条搜索空白
+# delete localetwork 解决今日头条搜索空白
 
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
