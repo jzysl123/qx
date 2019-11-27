@@ -1,11 +1,5 @@
 # This rule does not include shenji
 
-#zxzjs.com
-DOMAIN-SUFFIX,min1319.com,REJECT
-
-
-#btmayi.xyz
-DOMAIN-SUFFIX,img.gxhxmy88.com,REJECT
 
 # delete localnetwork 解决今日头条搜索空白
 
