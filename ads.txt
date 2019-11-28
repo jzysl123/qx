@@ -1,6 +1,8 @@
 # This rule does not include shenji
 
 
+# delete libs.baidu.com 解决视频播放问题
+
 # delete localetwork 解决今日头条搜索空白
 
 #btos.pw
