@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,popads.net,REJECT
 DOMAIN-SUFFIX,cloudfront.net,REJECT
 DOMAIN-SUFFIX,fingahvf.top,REJECT
 DOMAIN-SUFFIX,puhtml.com,REJECT
+DOMAIN-SUFFIX,dc5k8fg5ioc8s.cloudfront.net,REJECT
+
+
 #daishuxiazai
 DOMAIN-SUFFIX,api.budejie.com,REJECT
 DOMAIN-SUFFIX,bkt.clouddn.com,REJECT
