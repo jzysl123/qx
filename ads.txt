@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,cloudfront.net,REJECT
 DOMAIN-SUFFIX,fingahvf.top,REJECT
 DOMAIN-SUFFIX,puhtml.com,REJECT
 DOMAIN-SUFFIX,dc5k8fg5ioc8s.cloudfront.net,REJECT
-
+DOMAIN-SUFFIX,d11tybz5ul8vel.cloudfront.net,REJECT
 
 #daishuxiazai
 DOMAIN-SUFFIX,api.budejie.com,REJECT
