@@ -332,12 +332,12 @@ DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,cn
 GEOIP,CN
 
-# ÊÖ¹¤¶¨ÒåµÄ Direct ÁĞ±í
+# æ‰‹å·¥å®šä¹‰çš„ Direct åˆ—è¡¨
 #153
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,api.cloudmobi.net
 DOMAIN-SUFFIX,hotmail.com
-#Ñ§ÊõÍøÕ¾
+#å­¦æœ¯ç½‘ç«™
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,blackwell-synergy.com
@@ -354,11 +354,11 @@ IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,127.0.0.0/8
 
-# ÊÖ¹¤¶¨ÒåµÄ Proxy ÁĞ±í
+# æ‰‹å·¥å®šä¹‰çš„ Proxy åˆ—è¡¨
 DOMAIN-SUFFIX,theinitium.com,Proxy
 DOMAIN-SUFFIX,youtu.be,Proxy
 DOMAIN-SUFFIX,netflix.com,Proxy
-#161 ¿ÉÄÜÒÔºó»áºÍGFWListÖØ¸´
+#161 å¯èƒ½ä»¥åä¼šå’ŒGFWListé‡å¤
 DOMAIN-SUFFIX,9gag.com,Proxy
 #Telegram
 IP-CIDR,67.198.55.0/24,Proxy
@@ -377,11 +377,11 @@ DOMAIN-SUFFIX,cdninstagram.com,Proxy
 #disqus
 DOMAIN-SUFFIX,disquscdn.com,Proxy
 DOMAIN-SUFFIX,gist.github.com,Proxy
-# Ê×Ò³Ö±Á¬£¬µ«ÖĞÎÄµÄÎ¬»ù°Ù¿Æ±ØĞë·­Ç½
+# é¦–é¡µç›´è¿ï¼Œä½†ä¸­æ–‡çš„ç»´åŸºç™¾ç§‘å¿…é¡»ç¿»å¢™
 DOMAIN-SUFFIX,wikipedia.org,Proxy
-# Ê×Ò³Ö±Á¬£¬µ«×ÓÓòÃûĞè·­Ç½
+# é¦–é¡µç›´è¿ï¼Œä½†å­åŸŸåéœ€ç¿»å¢™
 DOMAIN-SUFFIX,onedrive.live.com,Proxy
-#20 ¿ª³µ
+#20 å¼€è½¦
 DOMAIN-SUFFIX,t66y.com,Proxy
 DOMAIN-SUFFIX,91porn.com,Proxy
 #132
@@ -391,7 +391,7 @@ DOMAIN-SUFFIX,whatsapp.com,Proxy
 DOMAIN-SUFFIX,whatsapp.net,Proxy
 IP-CIDR,18.194.0.0/15,Proxy
 IP-CIDR,34.224.0.0/12,Proxy
-#54 Ì¨ÍåÏã¸Û°ÄÃÅ ³£ÓÃÍøÕ¾
+#54 å°æ¹¾é¦™æ¸¯æ¾³é—¨ å¸¸ç”¨ç½‘ç«™
 DOMAIN-SUFFIX,ptt.cc,Proxy
 DOMAIN-SUFFIX,mingpaocanada.com,Proxy
 DOMAIN-SUFFIX,mingpao.com,Proxy
@@ -400,11 +400,11 @@ DOMAIN-SUFFIX,appledaily.tw,Proxy
 DOMAIN-SUFFIX,nextmag.com.tw,Proxy
 DOMAIN-SUFFIX,thestandnews.com,Proxy
 #60 GMail
-# ÊÖ»ú smtp ºÍ imap ĞèÒªÓÃµ½
+# æ‰‹æœº smtp å’Œ imap éœ€è¦ç”¨åˆ°
 DOMAIN-SUFFIX,gmail.com,Proxy
 #72 #112 Google Voice
 IP-CIDR,74.125.0.0/16,Proxy
-#85£¨¿ÉÄÜÈßÓà£©
+#85ï¼ˆå¯èƒ½å†—ä½™ï¼‰
 DOMAIN-SUFFIX,yt3.ggpht.com,Proxy
 DOMAIN-SUFFIX,www-google-analytics.l.google.com,Proxy
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,Proxy
@@ -415,11 +415,11 @@ DOMAIN-SUFFIX,pagead-tpc.l.google.com,Proxy
 DOMAIN-SUFFIX,mobileads.google.com,Proxy
 DOMAIN-SUFFIX,ads.google.com,Proxy
 DOMAIN-SUFFIX,afd.l.google.com,Proxy
-#175 »ª¶û½ÖÓÊ±¨
+#175 åå°”è¡—é‚®æŠ¥
 DOMAIN-SUFFIX,dowjones.com,Proxy
 #159
 DOMAIN-SUFFIX,thetvdb.com,Proxy
-#180 OneDrive£¨¿ÉÄÜÈßÓà£©
+#180 OneDriveï¼ˆå¯èƒ½å†—ä½™ï¼‰
 DOMAIN-SUFFIX,bcbits.com,Proxy
 DOMAIN-SUFFIX,ogma.iad.appboy.com,Proxy
 DOMAIN-SUFFIX,odc.officeapps.live.com,Proxy
