@@ -5497,7 +5497,7 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-# GFWList ²»ÄÜÎŞËğ×ª»»Îª SR ¹æÔò£¬ËùÒÔÕâÀïÊÇ¶Ô GFWList µÄ²¹³ä
+# GFWList ä¸èƒ½æ— æŸè½¬æ¢ä¸º SR è§„åˆ™ï¼Œæ‰€ä»¥è¿™é‡Œæ˜¯å¯¹ GFWList çš„è¡¥å……
 DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,search.xxx
 IP-CIDR,50.7.31.230/32
@@ -5521,7 +5521,7 @@ DOMAIN-KEYWORD,phobos
 # search*safeweb
 # q=triangle
 # q%3DTriangle
-# ĞŞ¸´ Telegram #105
+# ä¿®å¤ Telegram #105
 IP-CIDR,67.198.55.0/24
 IP-CIDR,91.108.4.0/22
 IP-CIDR,91.108.8.0/22
@@ -5533,7 +5533,7 @@ IP-CIDR,149.154.160.0/20
 IP-CIDR,149.154.164.0/22
 IP-CIDR,149.154.168.0/22
 IP-CIDR,149.154.172.0/22
-# ĞŞ¸´ google voice #112
+# ä¿®å¤ google voice #112
 IP-CIDR,74.125.23.127/32
 # hacker news web site
 DOMAIN-SUFFIX,news.ycombinator.com
