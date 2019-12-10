@@ -1,6 +1,11 @@
 # This rule does not include shenji
 
 
+
+#bde4.com
+DOMAIN-SUFFIX,0852m.com,REJECT
+DOMAIN-SUFFIX,0852m.monster,REJECT
+
 # delete libs.baidu.com 解决视频播放问题
 
 # delete localetwork 解决今日头条搜索空白
@@ -8,20 +13,22 @@
 #btos.pw
 DOMAIN-SUFFIX,popcash.net,REJECT
 DOMAIN-SUFFIX,popads.net,REJECT
-DOMAIN-SUFFIX,cloudfront.net,REJECT
 DOMAIN-SUFFIX,fingahvf.top,REJECT
 DOMAIN-SUFFIX,puhtml.com,REJECT
 DOMAIN-SUFFIX,dc5k8fg5ioc8s.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d11tybz5ul8vel.cloudfront.net,REJECT
 
+
 #daishuxiazai
 DOMAIN-SUFFIX,api.budejie.com,REJECT
 DOMAIN-SUFFIX,bkt.clouddn.com,REJECT
+
 #7mmtv
 DOMAIN-SUFFIX,histats.com,REJECT
 DOMAIN-SUFFIX,o333o.com,REJECT
 DOMAIN-SUFFIX,86a6b542l7.com,REJECT
 DOMAIN-SUFFIX,mc.yandex.ru,REJECT
+
 # 提取自CHN: EasyList China (中文) 误杀机会大
 DOMAIN-SUFFIX,0024aaaa.com,REJECT
 DOMAIN-SUFFIX,00880808.com,REJECT
