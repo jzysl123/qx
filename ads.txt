@@ -2,6 +2,9 @@
 
 
 
+#1090ys.com
+DOMAIN-SUFFIX,baolq666,REJECT
+
 #bde4.com
 DOMAIN-SUFFIX,0852m.com,REJECT
 DOMAIN-SUFFIX,0852m.monster,REJECT
@@ -19,7 +22,7 @@ DOMAIN-SUFFIX,dc5k8fg5ioc8s.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d11tybz5ul8vel.cloudfront.net,REJECT
 
 
-#daishuxiazai
+#daishuxiazai leidianxiazai
 DOMAIN-SUFFIX,api.budejie.com,REJECT
 DOMAIN-SUFFIX,bkt.clouddn.com,REJECT
 
