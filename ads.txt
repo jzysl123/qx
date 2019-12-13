@@ -1,6 +1,9 @@
 # This rule does not include shenji
 
 
+#hktvyb.com
+DOMAIN-SUFFIX,hmwebs.top,REJECT
+
 
 #1090ys.com
 DOMAIN-SUFFIX,baolq666.com,REJECT
