@@ -1,5 +1,6 @@
-hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top,*.alicdn.com,*.zxzjs.com,*.1993s.top
+hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top,*.alicdn.com,*.zxzjs.com,*.1993s.top,*.952780.com
 
+^http:\/\/www\.952780\.com\/js\/ds\/qzdb\.js url reject
 
 # Advertising Block
 # > 7mmtv
