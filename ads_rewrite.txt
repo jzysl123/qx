@@ -17,4 +17,4 @@ hostname = 7mmtv.tv,*.7mmtv.tv,btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tz
 
 
 # > zxzjs.com 1993s.top
-^https:\/\/www\.(zxzjs|1993s|zxjz)\.(com|top|me)\/slade(\d{1,5})\.js url reject
+^https:\/\/www\.(zxzjs|1993s|zxzj)\.(com|top|me)\/slade(\d{1,5})\.js url reject
