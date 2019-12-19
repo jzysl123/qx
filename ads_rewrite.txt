@@ -1,7 +1,5 @@
 hostname = btos.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top,*.alicdn.com,*.zxzjs.com,*.1993s.top,*.zxzj.me,*.952780.com,*.dvdhd.me,dvdhd.me,*.1090ys.com
 
-# > 1090ys.com
-^https:\/\/.+\/xxd\.php\?id=\d{1,8} url reject
 
 # > 952780.com
 ^http.*:\/\/www\.(952780|dvdhd)\.(com|me)\/js\/ds\/(.{1,})\.js url reject
