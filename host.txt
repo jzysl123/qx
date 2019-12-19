@@ -3665,10 +3665,6 @@ HOST-SUFFIX,g.mbm.cn.miaozhen.com,REJECT
 HOST-SUFFIX,googleadsserving.cn,REJECT
 HOST-SUFFIX,googletagmanager.com,REJECT
 HOST-SUFFIX,gs.m.cn.miaozhen.com,REJECT
-HOST-SUFFIX,gsp0.baidu.com,REJECT
-HOST-SUFFIX,gsp1.baidu.com,REJECT
-HOST-SUFFIX,gsp2.baidu.com,REJECT
-HOST-SUFFIX,gsp3.baidu.com,REJECT
 HOST-SUFFIX,gss0.bdstatic.com,REJECT
 HOST-SUFFIX,guangming.org,REJECT
 HOST-SUFFIX,g.x.cn.miaozhen.com,REJECT
