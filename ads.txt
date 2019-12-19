@@ -8,6 +8,8 @@ HOST-SUFFIX,hmwebs.top,REJECT
 #1090ys.com
 HOST-SUFFIX,baolq666.com,REJECT
 HOST-SUFFIX,85io2.cn,REJECT
+HOST-SUFFIX,tuodupingguomiao.com,REJECT
+
 
 #bde4.com
 HOST-SUFFIX,0852m.com,REJECT
