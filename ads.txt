@@ -1,8 +1,8 @@
 # This rule does not include shenji
 
-me#
+#w
 HOST-SUFFIX,xn--wxtr9fwyxk9c.top,REJECT
-Host: xn--mtso8sj6menhyil.online:12388H
+Hxn--mtso8sj6menhyil.online:12388H,REJECT
 
 #m.mp4ba.cc
 HOST-SUFFIX,yunsennet.com,REJECT
