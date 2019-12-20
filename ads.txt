@@ -2,7 +2,7 @@
 
 #w
 HOST-SUFFIX,xn--wxtr9fwyxk9c.top,REJECT
-Hxn--mtso8sj6menhyil.online:12388H,REJECT
+HOST-SUFFIX,xn--mtso8sj6menhyil.online,REJECT
 
 #m.mp4ba.cc
 HOST-SUFFIX,yunsennet.com,REJECT
