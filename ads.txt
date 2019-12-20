@@ -1,9 +1,12 @@
 # This rule does not include shenji
 
 
+
+#m.mp4ba.cc
+HOST-SUFFIX,yunsennet.com,REJECT
+
 #hktvyb.com
 HOST-SUFFIX,hmwebs.top,REJECT
-
 
 #1090ys.com
 HOST-SUFFIX,baolq666.com,REJECT
