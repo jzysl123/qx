@@ -1,6 +1,6 @@
 # This rule does not include shenji
 
-#w
+#wanmeikk.me
 HOST-SUFFIX,xn--wxtr9fwyxk9c.top,REJECT
 HOST-SUFFIX,xn--mtso8sj6menhyil.online,REJECT
 
