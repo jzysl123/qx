@@ -1,5 +1,7 @@
 # 经常性清空浏览器缓存 否则没效果
 
+#mh
+HOST-SUFFIX,19831110.com,REJECT
 
 #bd-film.cc
 HOST-SUFFIX,sfz023.com,REJECT
@@ -20,6 +22,7 @@ HOST-SUFFIX,baolq666.com,REJECT
 HOST-SUFFIX,85io2.cn,REJECT
 HOST-SUFFIX,tuodupingguomiao.com,REJECT
 HOST-SUFFIX,xn--xhq9mt12cf5v.website,REJECT
+HOST-SUFFIX,mahinn.com,REJECT
 
 
 #bde4.com
