@@ -1,6 +1,9 @@
 # 经常性清空浏览器缓存 否则没效果
 
 
+#dybee.tv
+HOST,cdn.dybee.tv,REJECT
+
 #荟聚动漫
 HOST-SUFFIX,19831110.com,REJECT
 
