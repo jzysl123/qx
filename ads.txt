@@ -1,6 +1,9 @@
 # 经常性清空浏览器缓存 否则没效果
 
 
+#javqq.com
+HOST,terrapsps.com,REJECT
+
 #dybee.tv
 HOST,cdn.dybee.tv,REJECT
 
