@@ -5,6 +5,10 @@
 HOST,terrapsps.com,REJECT
 HOST,ehu96t2p.com,REJECT
 HOST,selltrafficfor.me,REJECT
+HOST,smartshare.tv,proxy
+HOST,fvs.io,proxy
+HOST-SUFFIX,o0-2.com,proxy
+
 
 
 #dybee.tv
