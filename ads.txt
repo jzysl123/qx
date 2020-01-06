@@ -3,6 +3,9 @@
 
 #javqq.com
 HOST,terrapsps.com,REJECT
+HOST,ehu96t2p.com,REJECT
+HOST,selltrafficfor.me,REJECT
+
 
 #dybee.tv
 HOST,cdn.dybee.tv,REJECT
