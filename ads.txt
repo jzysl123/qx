@@ -52,9 +52,11 @@ HOST-SUFFIX,popcash.net,REJECT
 HOST-SUFFIX,popads.net,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,puhtml.com,REJECT
-HOST-SUFFIX,dc5k8fg5ioc8s.cloudfront.net,REJECT
-HOST-SUFFIX,d11tybz5ul8vel.cloudfront.net,REJECT
+HOST,d1ks8roequxbwa.cloudfront.net,REJECT
+HOST,djv99sxoqpv11.cloudfront.net,REJECT
 HOST,topacity.rocks,REJECT
+
+
 
 #daishuxiazai leidianxiazai
 HOST-SUFFIX,api.budejie.com,REJECT
