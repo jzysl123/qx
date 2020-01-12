@@ -1,13 +1,19 @@
 # 经常性清空浏览器缓存 否则没效果
 
 
+#oxlife.co
+HOST-SUFFIX,o333o.com,REJECT
+HOST-KEYWORD,feurl,proxy
+HOST-KEYWORD,fembed,proxy
+
+
+
 #javqq.com
 HOST-KEYWORD,fvs,proxy
 HOST,terrapsps.com,REJECT
 HOST,ehu96t2p.com,REJECT
 HOST,selltrafficfor.me,REJECT
 HOST,bestvideo2019.xyz,REJECT
-
 
 
 #dybee.tv
