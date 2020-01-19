@@ -59,7 +59,6 @@ HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,puhtml.com,REJECT
 HOST,d1ks8roequxbwa.cloudfront.net,REJECT
 HOST,djv99sxoqpv11.cloudfront.net,REJECT
-HOST,topacity.rocks,REJECT
 
 
 
