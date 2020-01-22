@@ -6,17 +6,14 @@ HOST-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i,REJECT
 
 
 #oxlife.co
-#HOST-KEYWORD,feurl,proxy
-#HOST-KEYWORD,fembed,proxy
+HOST-KEYWORD,feurl,proxy
+HOST-KEYWORD,fembed,proxy
 
 
 
 #javqq.com
 HOST-KEYWORD,fvs,proxy
-HOST,terrapsps.com,REJECT
-HOST,ehu96t2p.com,REJECT
-HOST,selltrafficfor.me,REJECT
-HOST,bestvideo2019.xyz,REJECT
+
 
 
 #dybee.tv
