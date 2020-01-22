@@ -1,4 +1,4 @@
-# ｺﾏｲ｢EasyList｡｢EasyListChina｡｢ilpl｡｢ad-wars｡｢yhosts｡｢neohosts｡｢HostsY
+# 蜷亥ｹｶEasyList縲・asyListChina縲（lpl縲∥d-wars縲【hosts縲］eohosts縲？ostsY
 # adblock rules refresh time: 2020-01-22 18:41:39
 HOST,0.r.msn.com,REJECT
 HOST,0.solo84.biz,REJECT
