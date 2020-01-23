@@ -5,14 +5,13 @@ HOST-SUFFIX,celueziben.com,REJECT
 HOST-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i,REJECT
 
 
+#oxlife.co
+HOST-KEYWORD,feurl,proxy
+HOST-KEYWORD,fembed,proxy
+HOST-KEYWORD,fvs,proxy
 
 
 
-#javqq.com
-HOST,terrapsps.com,REJECT
-HOST,ehu96t2p.com,REJECT
-HOST,selltrafficfor.me,REJECT
-HOST,bestvideo2019.xyz,REJECT
 
 
 #dybee.tv
