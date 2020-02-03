@@ -10,6 +10,7 @@ HOST-SUFFIX,youyisheng.net,REJECT
 HOST-KEYWORD,feurl,proxy
 HOST-KEYWORD,fembed,proxy
 HOST-KEYWORD,fvs,proxy
+HOST-KEYWORD,cloudflare,proxy
 
 
 #dybee.tv
