@@ -50,12 +50,12 @@ HOST-SUFFIX,0852m.monster,REJECT
 
 # delete localetwork 解决今日头条搜索空白
 
-#btos.pw
+#btio.pw
 HOST-SUFFIX,popcash.net,REJECT
 HOST-SUFFIX,popads.net,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,puhtml.com,REJECT
-HOST,d1ks8roequxbwa.cloudfront.net,REJECT
+HOST,d141wsrw9m4as6.cloudfront.net,REJECT
 HOST,djv99sxoqpv11.cloudfront.net,REJECT
 
 
