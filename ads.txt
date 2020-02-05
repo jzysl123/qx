@@ -45,6 +45,8 @@ HOST-SUFFIX,kabizan.com,REJECT
 #bde4.com
 HOST-SUFFIX,0852m.com,REJECT
 HOST-SUFFIX,0852m.monster,REJECT
+HOST,00852wm.lhtkw.cn,REJECT
+
 
 # delete libs.baidu.com 解决视频播放问题
 
