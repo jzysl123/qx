@@ -1,5 +1,11 @@
 # 经常性清空浏览器缓存 否则没效果
 
+
+#yhg12.xyz
+HOST-SUFFIX,9h5qq.cn,REJECT
+
+
+
 #wuguiyy.com shenma4480.com
 HOST-SUFFIX,celueziben.com,REJECT
 HOST-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i,REJECT
