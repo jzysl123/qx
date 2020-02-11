@@ -19,4 +19,3 @@ hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top
 
 # > nfmovies
 ^http:\/\/www\.nfmovies\.com\/pic\/tu\/ad.+png url reject
-^https:\/\/www\.nfmovies\.com\/js/play\.js response-body "adsTime" = 15 response-body "adsTime" = 0
