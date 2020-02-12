@@ -18,4 +18,4 @@ hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top
 ^http:\/\/www\.(javlibrary|h28o)\.com\/js\/(bnr_(.{1,})|advertisement) url reject
 
 # > nfmovies
-^http:\/\/www\.nfmovies\.com\/pic\/tu\/ad.+png url reject
+^https:\/\/www\.nfmovies\.com\/pic\/tu\/ad.+png url reject
