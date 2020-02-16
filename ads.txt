@@ -20,6 +20,14 @@ HOST-KEYWORD,feurl,proxy
 HOST-KEYWORD,fembed,proxy
 HOST-KEYWORD,fvs,proxy
 HOST-KEYWORD,cloudflare,proxy
+HOST-KEYWORD,o0-1,proxy
+HOST-KEYWORD,o0-2,proxy
+HOST-KEYWORD,o0-3,proxy
+HOST-KEYWORD,o0-4,proxy
+HOST-KEYWORD,o0-5,proxy
+HOST-KEYWORD,o0-6,proxy
+HOST-KEYWORD,o0-7,proxy
+HOST-KEYWORD,o0-8,proxy
 HOST-SUFFIX,fuyuap.xyz,REJECT
 
 
