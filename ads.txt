@@ -1,9 +1,9 @@
 # 经常性清空浏览器缓存 否则没效果
 
 
-#k1080.net  1080p.live
+#k1080.net  yingshikk.com
 
-#yhg12.xyz
+#yhg15.xyz
 HOST-SUFFIX,9h5qq.cn,REJECT
 
 #wuguiyy.com shenma4480.com
