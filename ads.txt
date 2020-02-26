@@ -1,7 +1,6 @@
 # 经常性清空浏览器缓存 否则没效果
 
-
-#k1080.net  yingshikk.com
+#yingshikk.com
 
 #yhg15.xyz
 HOST-SUFFIX,9h5qq.cn,REJECT
@@ -12,7 +11,6 @@ HOST-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i,REJECT
 HOST-SUFFIX,jnj-energy.com,REJECT
 HOST-SUFFIX,youyisheng.net,REJECT
 HOST-SUFFIX,jiuyuntian3.cn,REJECT
-
 
 #oxlife.co
 HOST-SUFFIX,fuyuap.xyz,REJECT
@@ -26,7 +24,6 @@ HOST-SUFFIX,19831110.com,REJECT
 
 #bd-film.cc
 HOST-SUFFIX,sfz023.com,REJECT
-
 
 #wanmeikk.me
 HOST-SUFFIX,xn--wxtr9fwyxk9c.top,REJECT
@@ -46,13 +43,9 @@ HOST-SUFFIX,xn--xhq9mt12cf5v.website,REJECT
 HOST-SUFFIX,mahinn.com,REJECT
 HOST-SUFFIX,kabizan.com,REJECT
 
-
 #bde4.com
 HOST-SUFFIX,66994.top,REJECT
-
 
 #daishuxiazai leidianxiazai
 HOST-SUFFIX,api.budejie.com,REJECT
 HOST-SUFFIX,bkt.clouddn.com,REJECT
-
-
