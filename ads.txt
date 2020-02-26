@@ -14,10 +14,8 @@ HOST-SUFFIX,youyisheng.net,REJECT
 HOST-SUFFIX,jiuyuntian3.cn,REJECT
 
 
-
 #oxlife.co
 HOST-SUFFIX,fuyuap.xyz,REJECT
-
 
 
 #dybee.tv
@@ -50,23 +48,7 @@ HOST-SUFFIX,kabizan.com,REJECT
 
 
 #bde4.com
-HOST,00852wm.lhtkw.cn,REJECT
-HOST-SUFFIX,0852m.com,REJECT
-HOST-SUFFIX,0852m.monster,REJECT
 HOST-SUFFIX,66994.top,REJECT
-
-# delete libs.baidu.com 解决视频播放问题
-
-# delete localetwork 解决今日头条搜索空白
-
-#btio.pw
-HOST-SUFFIX,popcash.net,REJECT
-HOST-SUFFIX,popads.net,REJECT
-HOST-SUFFIX,fingahvf.top,REJECT
-HOST-SUFFIX,puhtml.com,REJECT
-HOST,d141wsrw9m4as6.cloudfront.net,REJECT
-HOST,djv99sxoqpv11.cloudfront.net,REJECT
-
 
 
 #daishuxiazai leidianxiazai
