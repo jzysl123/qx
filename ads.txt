@@ -53,7 +53,7 @@ HOST-SUFFIX,kabizan.com,REJECT
 HOST-SUFFIX,0852m.com,REJECT
 HOST-SUFFIX,0852m.monster,REJECT
 HOST,00852wm.lhtkw.cn,REJECT
-
+HOST,66994.top,REJECT
 
 # delete libs.baidu.com 解决视频播放问题
 
