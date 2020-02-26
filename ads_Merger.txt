@@ -33493,7 +33493,6 @@ HOST,www.w4pma.cn,REJECT
 HOST,www.wancai.com,REJECT
 HOST,www.wcnmd.top,REJECT
 HOST,www.web605.cn,REJECT
-HOST,www.wenxuemi6.com,REJECT
 HOST,www.whalecloud.com,REJECT
 HOST,www.whshangsha.com,REJECT
 HOST,www.whxhhjx.com,REJECT
