@@ -3,7 +3,9 @@
 #yingshikk.com
 
 #yhg15.xyz
-HOST-SUFFIX,9h5qq.cn,REJECT
+HOST-SUFFIX,9h7qq.cn,REJECT
+HOST-SUFFIX,yuhuage.biz,REJECT
+
 
 #wuguiyy.com shenma4480.com
 HOST-SUFFIX,celueziben.com,REJECT
