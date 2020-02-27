@@ -13,6 +13,9 @@ HOST-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i,REJECT
 HOST-SUFFIX,jnj-energy.com,REJECT
 HOST-SUFFIX,youyisheng.net,REJECT
 HOST-SUFFIX,jiuyuntian3.cn,REJECT
+HOST-SUFFIX,xn--xhq9mt12cf5v.art,REJECT
+
+
 
 #oxlife.co
 HOST-SUFFIX,fuyuap.xyz,REJECT
