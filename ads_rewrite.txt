@@ -19,3 +19,5 @@ hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top
 
 # > nfmovies
 ^https:\/\/www\.nfmovies\.com\/pic\/tu\/ad.+png url reject
+
+# > ddrk.me
