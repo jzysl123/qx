@@ -1,6 +1,6 @@
 # 合并EasyList、EasyListChina、ilpl、ad-wars、yhosts、filters、HostsY、AdGuard Chinese filter
 
-# adblock rules refresh time: 2020-02-27 20:41:07
+# adblock rules refresh time: 2020-02-28 12:15:03
 HOST-SUFFIX,0--e.info,REJECT
 HOST,0.solo84.biz,REJECT
 HOST,0.up.qingdaonews.com,REJECT
@@ -2938,6 +2938,7 @@ HOST,adshows.21cn.com,REJECT
 HOST-SUFFIX,adshuffle.com,REJECT
 HOST-SUFFIX,adsiduous.com,REJECT
 HOST-SUFFIX,adsignals.com,REJECT
+HOST-SUFFIX,adsima.net,REJECT
 HOST-SUFFIX,adsimilis.com,REJECT
 HOST,adsin.zhangyoubao.com,REJECT
 HOST,adsina.allyes.com,REJECT
@@ -8962,6 +8963,7 @@ HOST-SUFFIX,ddomm.com,REJECT
 HOST-SUFFIX,ddpxhq.cn,REJECT
 HOST,ddvfoj5yrl2oi.cloudfront.net,REJECT
 HOST,ddyv8sl7ewq1w.cloudfront.net,REJECT
+HOST-SUFFIX,ddzfjyppcbv.com,REJECT
 HOST,de.as.cp61.ott.cibntv.net,REJECT
 HOST,de.as.pptv.com,REJECT
 HOST,de.dzribao.com,REJECT
@@ -9761,6 +9763,7 @@ HOST-SUFFIX,dsmmadvantage.com,REJECT
 HOST-SUFFIX,dsmxwgmkj.com,REJECT
 HOST-SUFFIX,dsnextgen.com,REJECT
 HOST-SUFFIX,dsnr-affiliates.com,REJECT
+HOST-SUFFIX,dsnxvnkxyimczk.com,REJECT
 HOST,dsp-click.youdao.com,REJECT
 HOST,dsp-eu.exe.bid,REJECT
 HOST,dsp-impr.youdao.com,REJECT
@@ -17039,6 +17042,7 @@ HOST-SUFFIX,kmkdkefa.com,REJECT
 HOST-SUFFIX,kmmtxuxow.com,REJECT
 HOST-SUFFIX,kmpcmafvqf.com,REJECT
 HOST-SUFFIX,kmpxgnnoom.com,REJECT
+HOST-SUFFIX,kmrnnqjfjjp.com,REJECT
 HOST-SUFFIX,kmwqxqh.com,REJECT
 HOST-SUFFIX,kmylvwo5.com,REJECT
 HOST-SUFFIX,kmypiwpbastt.com,REJECT
@@ -17095,6 +17099,7 @@ HOST-SUFFIX,kokilopi.com,REJECT
 HOST-SUFFIX,kokofits.com,REJECT
 HOST-SUFFIX,kolerprivals.pro,REJECT
 HOST-SUFFIX,kolimanq.com,REJECT
+HOST-SUFFIX,kolinay.com,REJECT
 HOST-SUFFIX,koltruah.com,REJECT
 HOST-SUFFIX,kolur.top,REJECT
 HOST-SUFFIX,kolwksic.com,REJECT
@@ -23344,6 +23349,7 @@ HOST-SUFFIX,peyttlwbznahi.com,REJECT
 HOST-SUFFIX,pezrphjl.com,REJECT
 HOST,pf-2.pchome.net,REJECT
 HOST,pf.pchome.net,REJECT
+HOST-SUFFIX,pfcjhjogq.com,REJECT
 HOST-SUFFIX,pfdctvdgjw.com,REJECT
 HOST-SUFFIX,pfhgihce.bid,REJECT
 HOST-SUFFIX,pfibgoaqdzbp.com,REJECT
@@ -24537,6 +24543,7 @@ HOST-SUFFIX,pubmatic.com,REJECT
 HOST-SUFFIX,pubmine.com,REJECT
 HOST-SUFFIX,pubnation.com,REJECT
 HOST-SUFFIX,pubovore.com,REJECT
+HOST-SUFFIX,pubpayment.com,REJECT
 HOST,pubportal.brkmd.com,REJECT
 HOST-SUFFIX,pubrain.com,REJECT
 HOST-SUFFIX,pubted.com,REJECT
@@ -24546,6 +24553,7 @@ HOST-SUFFIX,pudptxanhspld.bid,REJECT
 HOST,puds.test.uae.uc.cn,REJECT
 HOST,puds.ucweb.com,REJECT
 HOST-SUFFIX,pudswlbzob.bid,REJECT
+HOST-SUFFIX,pufenchuanmu.com,REJECT
 HOST-SUFFIX,puffnetwork.com,REJECT
 HOST-SUFFIX,pugfgjvrivfm.bid,REJECT
 HOST-SUFFIX,pugpwrqsk.bid,REJECT
@@ -25100,6 +25108,7 @@ HOST-SUFFIX,qhzvvwblzrjc.com,REJECT
 HOST-SUFFIX,qi-duo.com,REJECT
 HOST-SUFFIX,qi-shi.top,REJECT
 HOST,qi.wndlkj.com,REJECT
+HOST-SUFFIX,qiaepasvtp.com,REJECT
 HOST-SUFFIX,qiailm.com,REJECT
 HOST,qianclick.baidu.com,REJECT
 HOST-SUFFIX,qianfuyin.com,REJECT
@@ -26266,6 +26275,7 @@ HOST-SUFFIX,riwjpbpvkl.com,REJECT
 HOST-SUFFIX,rixaka.com,REJECT
 HOST-SUFFIX,rixpjpjl.com,REJECT
 HOST-SUFFIX,rixxvqexdlgrl.com,REJECT
+HOST-SUFFIX,riykotovmy.com,REJECT
 HOST-SUFFIX,rizeintellingente.info,REJECT
 HOST-SUFFIX,rizotina.com,REJECT
 HOST-SUFFIX,rjaepduiirw.com,REJECT
@@ -32249,6 +32259,7 @@ HOST,wap.tanwan.com,REJECT
 HOST,wap.utmei.cn,REJECT
 HOST,wap.wooboo.com.cn,REJECT
 HOST,wap001.bytravel.cn,REJECT
+HOST,wap0c.m.wenxuemi6.com,REJECT
 HOST-SUFFIX,wap4dollar.com,REJECT
 HOST-SUFFIX,wapadv.com,REJECT
 HOST-SUFFIX,wapdollar.in,REJECT
@@ -34787,6 +34798,7 @@ HOST-SUFFIX,ymetrica.com,REJECT
 HOST-SUFFIX,ymetrica1.com,REJECT
 HOST-SUFFIX,ymgjtzciu.com,REJECT
 HOST-SUFFIX,ymhqeelitngcr.com,REJECT
+HOST-SUFFIX,ymkymasmvsuosd.com,REJECT
 HOST-SUFFIX,ymmdpk.cn,REJECT
 HOST,ymph.y8u975.cn,REJECT
 HOST-SUFFIX,ympkaxpaf.com,REJECT
