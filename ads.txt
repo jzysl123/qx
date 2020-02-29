@@ -1,6 +1,6 @@
 # 经常性清空浏览器缓存 否则没效果
 
-#yingshikk.com
+#k1080.net yingshikk.com
 
 #yhg15.xyz
 HOST-SUFFIX,9h7qq.cn,REJECT
