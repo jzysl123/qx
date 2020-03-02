@@ -1,6 +1,7 @@
 # 经常性清空浏览器缓存 否则没效果
+# ads_Merger的补充 部分重复（提前添加|懒得删）
 
-#k1080.net yingshikk.com
+#k1080.net 52dy.vip yingshikk.com 189.es
 
 #yhg15.xyz
 HOST-SUFFIX,9h7qq.cn,REJECT
