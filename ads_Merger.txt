@@ -1,6 +1,6 @@
 # 合并EasyList、EasyListChina、ilpl、ad-wars、yhosts、filters、HostsY、AdGuard Chinese filter
 
-# adblock rules refresh time: 2020-03-01 19:35:25
+# adblock rules refresh time: 2020-03-02 12:13:46
 HOST-SUFFIX,0--e.info,REJECT
 HOST,0.solo84.biz,REJECT
 HOST,0.up.qingdaonews.com,REJECT
@@ -409,37 +409,37 @@ HOST,2016.sina.cn,REJECT
 HOST,201689.qingkan520.com,REJECT
 HOST,2018.qucaigg.com,REJECT
 HOST-SUFFIX,201d5.cn,REJECT
-HOST,20200201.logic.cpm.cm.kankan.com,REJECT
-HOST,20200202.logic.cpm.cm.kankan.com,REJECT
-HOST,20200203.logic.cpm.cm.kankan.com,REJECT
-HOST,20200204.logic.cpm.cm.kankan.com,REJECT
-HOST,20200205.logic.cpm.cm.kankan.com,REJECT
-HOST,20200206.logic.cpm.cm.kankan.com,REJECT
-HOST,20200207.logic.cpm.cm.kankan.com,REJECT
-HOST,20200208.logic.cpm.cm.kankan.com,REJECT
-HOST,20200209.logic.cpm.cm.kankan.com,REJECT
-HOST,20200210.logic.cpm.cm.kankan.com,REJECT
-HOST,20200211.logic.cpm.cm.kankan.com,REJECT
-HOST,20200212.logic.cpm.cm.kankan.com,REJECT
-HOST,20200213.logic.cpm.cm.kankan.com,REJECT
-HOST,20200214.logic.cpm.cm.kankan.com,REJECT
-HOST,20200215.logic.cpm.cm.kankan.com,REJECT
-HOST,20200216.logic.cpm.cm.kankan.com,REJECT
-HOST,20200217.logic.cpm.cm.kankan.com,REJECT
-HOST,20200218.logic.cpm.cm.kankan.com,REJECT
-HOST,20200219.logic.cpm.cm.kankan.com,REJECT
-HOST,20200220.logic.cpm.cm.kankan.com,REJECT
-HOST,20200221.logic.cpm.cm.kankan.com,REJECT
-HOST,20200222.logic.cpm.cm.kankan.com,REJECT
-HOST,20200223.logic.cpm.cm.kankan.com,REJECT
-HOST,20200224.logic.cpm.cm.kankan.com,REJECT
-HOST,20200225.logic.cpm.cm.kankan.com,REJECT
-HOST,20200226.logic.cpm.cm.kankan.com,REJECT
-HOST,20200227.logic.cpm.cm.kankan.com,REJECT
-HOST,20200228.logic.cpm.cm.kankan.com,REJECT
-HOST,20200229.logic.cpm.cm.kankan.com,REJECT
-HOST,20200230.logic.cpm.cm.kankan.com,REJECT
-HOST,20200231.logic.cpm.cm.kankan.com,REJECT
+HOST,20200301.logic.cpm.cm.kankan.com,REJECT
+HOST,20200302.logic.cpm.cm.kankan.com,REJECT
+HOST,20200303.logic.cpm.cm.kankan.com,REJECT
+HOST,20200304.logic.cpm.cm.kankan.com,REJECT
+HOST,20200305.logic.cpm.cm.kankan.com,REJECT
+HOST,20200306.logic.cpm.cm.kankan.com,REJECT
+HOST,20200307.logic.cpm.cm.kankan.com,REJECT
+HOST,20200308.logic.cpm.cm.kankan.com,REJECT
+HOST,20200309.logic.cpm.cm.kankan.com,REJECT
+HOST,20200310.logic.cpm.cm.kankan.com,REJECT
+HOST,20200311.logic.cpm.cm.kankan.com,REJECT
+HOST,20200312.logic.cpm.cm.kankan.com,REJECT
+HOST,20200313.logic.cpm.cm.kankan.com,REJECT
+HOST,20200314.logic.cpm.cm.kankan.com,REJECT
+HOST,20200315.logic.cpm.cm.kankan.com,REJECT
+HOST,20200316.logic.cpm.cm.kankan.com,REJECT
+HOST,20200317.logic.cpm.cm.kankan.com,REJECT
+HOST,20200318.logic.cpm.cm.kankan.com,REJECT
+HOST,20200319.logic.cpm.cm.kankan.com,REJECT
+HOST,20200320.logic.cpm.cm.kankan.com,REJECT
+HOST,20200321.logic.cpm.cm.kankan.com,REJECT
+HOST,20200322.logic.cpm.cm.kankan.com,REJECT
+HOST,20200323.logic.cpm.cm.kankan.com,REJECT
+HOST,20200324.logic.cpm.cm.kankan.com,REJECT
+HOST,20200325.logic.cpm.cm.kankan.com,REJECT
+HOST,20200326.logic.cpm.cm.kankan.com,REJECT
+HOST,20200327.logic.cpm.cm.kankan.com,REJECT
+HOST,20200328.logic.cpm.cm.kankan.com,REJECT
+HOST,20200329.logic.cpm.cm.kankan.com,REJECT
+HOST,20200330.logic.cpm.cm.kankan.com,REJECT
+HOST,20200331.logic.cpm.cm.kankan.com,REJECT
 HOST-SUFFIX,2048hd.space,REJECT
 HOST-SUFFIX,204st.us,REJECT
 HOST-SUFFIX,206ads.com,REJECT
@@ -1499,6 +1499,7 @@ HOST,a.ecook.cn,REJECT
 HOST,a.epinv.com,REJECT
 HOST,a.eporner.com,REJECT
 HOST,a.exam58.com,REJECT
+HOST,a.exoclick.com,REJECT
 HOST,a.exosrv.com,REJECT
 HOST,a.fengyx.com,REJECT
 HOST,a.fwsir.com,REJECT
@@ -2294,6 +2295,7 @@ HOST-SUFFIX,addroplet.com,REJECT
 HOST-SUFFIX,addynamix.com,REJECT
 HOST-SUFFIX,addynamo.net,REJECT
 HOST,ade.googlesyndication.com,REJECT
+HOST-SUFFIX,adearsened.info,REJECT
 HOST-SUFFIX,adeaz.com,REJECT
 HOST-SUFFIX,adecn.com,REJECT
 HOST-SUFFIX,adedy.com,REJECT
@@ -2975,6 +2977,7 @@ HOST-SUFFIX,adsoptimal.com,REJECT
 HOST-SUFFIX,adsovo.com,REJECT
 HOST-SUFFIX,adsp.com,REJECT
 HOST,adsp.xunlei.com,REJECT
+HOST,adspaces.ero-advertising.com,REJECT
 HOST-SUFFIX,adsparc.net,REJECT
 HOST-SUFFIX,adspdbl.com,REJECT
 HOST-SUFFIX,adspeed.com,REJECT
@@ -4037,6 +4040,7 @@ HOST,api-game.meizu.com,REJECT
 HOST,api-luckycoinsdk.doglobal.net,REJECT
 HOST,api-p.smartnews-ads.com,REJECT
 HOST,api-push.meizu.com,REJECT
+HOST,api-secure.solvemedia.com,REJECT
 HOST,api-shoulei-ssl.xunlei.com,REJECT
 HOST,api.1q8h.cn,REJECT
 HOST,api.51sxzz.com,REJECT
@@ -5237,6 +5241,7 @@ HOST-SUFFIX,bebi.com,REJECT
 HOST-SUFFIX,bebj.com,REJECT
 HOST-SUFFIX,bebreloomr.com,REJECT
 HOST-SUFFIX,becanium.com,REJECT
+HOST-SUFFIX,becauseared.site,REJECT
 HOST,becode.qiushibaike.com,REJECT
 HOST,becode.xiao84.com,REJECT
 HOST,become.successfultogether.co.uk,REJECT
@@ -8495,6 +8500,7 @@ HOST,d2.sina.com.cn,REJECT
 HOST,d2.sinaimg.cn,REJECT
 HOST,d2.yiche.com,REJECT
 HOST,d20je219bs8hnq.cloudfront.net,REJECT
+HOST,d21f25e9uvddd7.cloudfront.net,REJECT
 HOST,d21j20wsoewvjq.cloudfront.net,REJECT
 HOST-SUFFIX,d22chwk8np.com,REJECT
 HOST,d22lo5bcpq2fif.cloudfront.net,REJECT
@@ -8567,6 +8573,7 @@ HOST,d2wpknqle9nuv8.cloudfront.net,REJECT
 HOST,d2xsy1lxezptdm.cloudfront.net,REJECT
 HOST,d2ymkpxi1rgldj.cloudfront.net,REJECT
 HOST,d2z0gqc8sv0l7p.cloudfront.net,REJECT
+HOST,d2zcblk8m9mzq5.cloudfront.net,REJECT
 HOST,d3.sina.com.cn,REJECT
 HOST,d3.sinaimg.cn,REJECT
 HOST,d30zrwt3s044zr.cloudfront.net,REJECT
@@ -10740,6 +10747,7 @@ HOST-SUFFIX,eduyzcjsnoeokj.com,REJECT
 HOST-SUFFIX,eduzzjy.com,REJECT
 HOST-SUFFIX,edvforeveretest.info,REJECT
 HOST,edw.edmunds.com,REJECT
+HOST-SUFFIX,edwhitnes.info,REJECT
 HOST-SUFFIX,edxosrcvydn.com,REJECT
 HOST-SUFFIX,edyjiqxeppjkj.com,REJECT
 HOST-SUFFIX,edysn.cn,REJECT
@@ -10787,6 +10795,7 @@ HOST,ee.s47e8.cn,REJECT
 HOST,ee.s69zl.cn,REJECT
 HOST,ee.shixunwang.net,REJECT
 HOST,ee.t3j6a.cn,REJECT
+HOST,ee.uh64b.cn,REJECT
 HOST,ee.w82ph.cn,REJECT
 HOST,ee.wh723.cn,REJECT
 HOST,ee.wv26d.cn,REJECT
@@ -11137,6 +11146,7 @@ HOST-SUFFIX,erberos.xyz,REJECT
 HOST-SUFFIX,erbjahuyn.com,REJECT
 HOST-SUFFIX,erdsyzb.com,REJECT
 HOST,erebor.douban.com,REJECT
+HOST-SUFFIX,erecommerchh.info,REJECT
 HOST-SUFFIX,eredexpendin.com,REJECT
 HOST-SUFFIX,erendri.com,REJECT
 HOST-SUFFIX,ereportz.com,REJECT
@@ -11353,6 +11363,7 @@ HOST-SUFFIX,ew740.cn,REJECT
 HOST-SUFFIX,ewebanalytics.com,REJECT
 HOST-SUFFIX,ewebcounter.com,REJECT
 HOST-SUFFIX,ewebse.com,REJECT
+HOST-SUFFIX,ewerhodub.com,REJECT
 HOST-SUFFIX,ewgnexykqnyoun.com,REJECT
 HOST-SUFFIX,ewlnukukkca.com,REJECT
 HOST-SUFFIX,ewphm.cn,REJECT
@@ -11768,6 +11779,7 @@ HOST-SUFFIX,ferank.fr,REJECT
 HOST-SUFFIX,fermolo.info,REJECT
 HOST-SUFFIX,ferreddo.com,REJECT
 HOST-SUFFIX,fesrsxtmkjgms.com,REJECT
+HOST-SUFFIX,fessmegilscha.info,REJECT
 HOST-SUFFIX,fessoovy.com,REJECT
 HOST-SUFFIX,festads.com,REJECT
 HOST-SUFFIX,festaporno.com,REJECT
@@ -14633,6 +14645,7 @@ HOST,hzdmacore.kejet.net,REJECT
 HOST-SUFFIX,hzht666.com,REJECT
 HOST-SUFFIX,hzhyhm.com,REJECT
 HOST-SUFFIX,hzlewuunwm.com,REJECT
+HOST-SUFFIX,hzlm.cc,REJECT
 HOST-SUFFIX,hzlsghfoqsvawe.com,REJECT
 HOST-SUFFIX,hzmiyou.cn,REJECT
 HOST,hzs10.cnzz.com,REJECT
@@ -16242,6 +16255,7 @@ HOST-SUFFIX,jmxecxpqq.com,REJECT
 HOST-SUFFIX,jmxjqlagfwz.com,REJECT
 HOST-SUFFIX,jmxlaser.com,REJECT
 HOST-SUFFIX,jmxphjxsxd.com,REJECT
+HOST-SUFFIX,jnclym4.cn,REJECT
 HOST-SUFFIX,jndczg.com,REJECT
 HOST-SUFFIX,jndnkgjqlxr.com,REJECT
 HOST-SUFFIX,jngxxwythaf.com,REJECT
@@ -17770,6 +17784,7 @@ HOST-SUFFIX,lijie1010.top,REJECT
 HOST-SUFFIX,lijit.com,REJECT
 HOST-SUFFIX,likecontrol.com,REJECT
 HOST,likeminer.nablabee.com,REJECT
+HOST-SUFFIX,liketube.xyz,REJECT
 HOST-SUFFIX,likingyetsnarl.com,REJECT
 HOST-SUFFIX,liktirov.com,REJECT
 HOST-SUFFIX,liliwoin.top,REJECT
@@ -19305,6 +19320,7 @@ HOST,m.txwhds.com.cn,REJECT
 HOST,m.ubaii.com,REJECT
 HOST,m.ucaii.com,REJECT
 HOST,m.uchij.com,REJECT
+HOST,m.uh64b.cn,REJECT
 HOST,m.uhor8.cn,REJECT
 HOST,m.ui46g.cn,REJECT
 HOST,m.uirbd.com,REJECT
@@ -20237,6 +20253,7 @@ HOST-SUFFIX,ministedik.info,REJECT
 HOST,miniye.xjts.cn,REJECT
 HOST-SUFFIX,minodazi.com,REJECT
 HOST-SUFFIX,minr.pw,REJECT
+HOST-SUFFIX,minsistereron.site,REJECT
 HOST-SUFFIX,mintake.com,REJECT
 HOST-SUFFIX,mioxtidzcrh.com,REJECT
 HOST,mipcache.bdstatic.com,REJECT
@@ -22669,6 +22686,7 @@ HOST-SUFFIX,orgvevacxlinrr.com,REJECT
 HOST-SUFFIX,orgzjdgtjmvzi.bid,REJECT
 HOST-SUFFIX,oriel.io,REJECT
 HOST-SUFFIX,origer.info,REJECT
+HOST,origin-ads.exoclick.com,REJECT
 HOST,origin-mc.corel.com,REJECT
 HOST-SUFFIX,orlandomp.com,REJECT
 HOST-SUFFIX,ormnduxoewtl.com,REJECT
@@ -23097,6 +23115,7 @@ HOST,paopao1.qiyipic.com,REJECT
 HOST,paopao2.qiyipic.com,REJECT
 HOST,paopao3.qiyipic.com,REJECT
 HOST-SUFFIX,paotmlonx.com,REJECT
+HOST-SUFFIX,papa999.xyz,REJECT
 HOST-SUFFIX,papajia55.com,REJECT
 HOST-SUFFIX,paperclipservice.com,REJECT
 HOST-SUFFIX,paperg.com,REJECT
@@ -27485,6 +27504,7 @@ HOST-SUFFIX,seomonitor.ro,REJECT
 HOST-SUFFIX,seomoz.org,REJECT
 HOST-SUFFIX,seoparts.net,REJECT
 HOST-SUFFIX,seoradar.ro,REJECT
+HOST-SUFFIX,seordl.cn,REJECT
 HOST-SUFFIX,separatesilver.com,REJECT
 HOST-SUFFIX,seprqnphibgd.com,REJECT
 HOST-SUFFIX,septembership.com,REJECT
@@ -32843,6 +32863,7 @@ HOST-SUFFIX,withingsessed.pro,REJECT
 HOST-SUFFIX,witlee.com,REJECT
 HOST-SUFFIX,wiywlvkwwwrms.com,REJECT
 HOST-SUFFIX,wizaly.com,REJECT
+HOST-SUFFIX,wizliebeg.com,REJECT
 HOST-SUFFIX,wizwarsum.site,REJECT
 HOST,wj.jiancai365.cn,REJECT
 HOST-SUFFIX,wjavelurhgx.com,REJECT
@@ -33447,6 +33468,7 @@ HOST,www.isitone.com,REJECT
 HOST,www.ixxrjygfpzfty.com,REJECT
 HOST,www.jagcn.com,REJECT
 HOST,www.jav23.com,REJECT
+HOST,www.jazdoxthxiv.com,REJECT
 HOST,www.jcdfdhx.top,REJECT
 HOST,www.jdouzzxkyukv.com,REJECT
 HOST,www.jesgoo.com,REJECT
@@ -33470,6 +33492,7 @@ HOST,www.jshonghuadq.com,REJECT
 HOST,www.juren0.com,REJECT
 HOST,www.jutou5.com,REJECT
 HOST,www.juzi.cn,REJECT
+HOST,www.jwmwtcmexc.com,REJECT
 HOST,www.jx5m.com,REJECT
 HOST,www.jystea.com,REJECT
 HOST,www.k3bos.com,REJECT
@@ -33707,6 +33730,7 @@ HOST,www.yd126.com,REJECT
 HOST,www.ydqzkj.com,REJECT
 HOST,www.yengo.com,REJECT
 HOST,www.ygbokgipe.bid,REJECT
+HOST,www.yichunrz.com,REJECT
 HOST,www.yijifen.com,REJECT
 HOST,www.yiluup.com,REJECT
 HOST,www.yiqifa.com,REJECT
