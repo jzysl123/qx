@@ -20,7 +20,7 @@ HOST-SUFFIX,xn--xhq9mt12cf5v.art,REJECT
 
 #oxlife.co
 HOST-SUFFIX,fuyuap.xyz,REJECT
-
+HOST-SUFFIX,asewlfjqwlflkew.com,REJECT
 
 #dybee.tv
 HOST,cdn.dybee.tv,REJECT
