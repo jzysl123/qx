@@ -1,4 +1,4 @@
-hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,tzfile.com,*.apkgm.top,*.alicdn.com,*.zxzjs.com,*.1993s.top,*.zxzj.me,*.952780.com,*.dvdhd.me,dvdhd.me,*.1090ys.com,*.nfmovies.com,*.1090ys.com,*.7384tv.com
+hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,*.tzfile.com,*.zxzjs.com,*.1993s.top,*.zxzj.me,*.952780.com,*.dvdhd.me,dvdhd.me,*.nfmovies.com,*.1090ys.com,*.bd-film.cc
 
 # > bd-film.cc
 ^https:\/\/s\.7384tv\.com\/.+cms-gg\.js url reject
