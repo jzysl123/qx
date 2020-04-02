@@ -30,7 +30,6 @@ HOST-SUFFIX,19831110.com,REJECT
 
 #bd-film.cc
 HOST-SUFFIX,sfz023.com,REJECT
-HOST-SUFFIX,lpjxzs.com,REJECT
 
 #wanmeikk.me
 HOST-SUFFIX,xn--wxtr9fwyxk9c.top,REJECT
