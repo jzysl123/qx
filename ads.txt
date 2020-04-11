@@ -50,10 +50,8 @@ HOST-SUFFIX,mahinn.com,REJECT
 HOST-SUFFIX,kabizan.com,REJECT
 
 #bde4.com
-HOST-SUFFIX,66994.top,REJECT
-HOST-SUFFIX,66993.top,REJECT
-HOST-SUFFIX,qc393.cn,REJECT
-HOST-SUFFIX,8023ak.cn,REJECT
+HOST-SUFFIX,juicyads.com,REJECT
+HOST,api.shjrwh.cn,REJECT
 
 #daishuxiazai leidianxiazai
 HOST-SUFFIX,api.budejie.com,REJECT
