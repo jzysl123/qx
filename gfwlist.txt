@@ -1,3 +1,7 @@
+HOST-SUFFIX,btbtt.me,Proxy
+HOST-KEYWORD,404edublog,Proxy
+HOST-KEYWORD,javdb,Proxy
+HOST-SUFFIX,emby.otakudrive.life,Proxy
 HOST-SUFFIX,jable.tv,Proxy
 HOST-SUFFIX,aneeo.com,Proxy
 HOST-SUFFIX,appvalley.vip,Proxy
@@ -20,13 +24,12 @@ HOST-SUFFIX,smartshare.tv,Proxy
 HOST-SUFFIX,google-analytics.com,Proxy
 HOST-SUFFIX,getsatisfaction.com,Proxy
 HOST-SUFFIX,recaptcha.net,Proxy
-HOST-SUFFIX,tradingview.com,Proxy
 HOST-SUFFIX,githubassets.com,Proxy
 HOST-SUFFIX,apk.tw,Proxy
 HOST-SUFFIX,avwikich.com,Proxy
 HOST-SUFFIX,qooqlevideo.com,Proxy
 HOST-SUFFIX,googleapis.com,Proxy
-HOST-SUFFIX,stc.cool,Proxy
+HOST-SUFFIX,stcdns.com,Proxy
 HOST-SUFFIX,apnic.net,Proxy
 HOST-SUFFIX,jav321.com,Proxy
 HOST-SUFFIX,wasabisys.com,Proxy
