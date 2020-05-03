@@ -49,6 +49,7 @@ HOST-SUFFIX,xn--xhq9mt12cf5v.website,REJECT
 HOST-SUFFIX,mahinn.com,REJECT
 HOST-SUFFIX,kabizan.com,REJECT
 HOST-SUFFIX,txzs168.net,REJECT
+HOST-SUFFIX,wa11ace.net,REJECT
 
 
 
