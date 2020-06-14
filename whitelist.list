@@ -7180,7 +7180,7 @@ IP-CIDR,119.176.0.0/12,no-resolve
 DOMAIN-SUFFIX,api.mob.app.letv.com,Direct
 
 # MOO
-USER-AGENT,MOO*
+USER-AGENT,MOO*,Direct
 USER-AGENT,TencentMidasConnect*,Direct
 
 # TencentVideo 腾讯视频
