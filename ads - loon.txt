@@ -1,0 +1,62 @@
+# 经常性清空浏览器缓存 否则没效果
+# ads_Merger的补充 部分重复（提前添加|懒得删）
+
+#k1080.net 52dy.vip yingshikk.com 189.es
+
+#yhg15.xyz
+DOMAIN-SUFFIX,9h7qq.cn
+DOMAIN-SUFFIX,yuhuage.biz
+
+
+#wuguiyy.com shenma4480.com
+DOMAIN-SUFFIX,celueziben.com
+DOMAIN-SUFFIX,xn--wxtr9fwyxk9c.xn--io0a7i
+DOMAIN-SUFFIX,jnj-energy.com
+DOMAIN-SUFFIX,youyisheng.net
+DOMAIN-SUFFIX,jiuyuntian3.cn
+DOMAIN-SUFFIX,xn--xhq9mt12cf5v.art
+
+
+
+#oxlife.co
+DOMAIN-SUFFIX,fuyuap.xyz
+DOMAIN,asewlfjqwlflkew.com
+
+#dybee.tv
+DOMAIN,cdn.dybee.tv
+
+#荟聚动漫
+DOMAIN-SUFFIX,19831110.com
+
+#bd-film.cc
+DOMAIN-SUFFIX,sfz023.com
+
+#wanmeikk.me
+DOMAIN-SUFFIX,xn--wxtr9fwyxk9c.top
+DOMAIN-SUFFIX,xn--mtso8sj6menhyil.online
+
+#m.mp4ba.cc
+DOMAIN-SUFFIX,yunsennet.com
+
+#hktvyb.com
+DOMAIN-SUFFIX,hmwebs.top
+
+#1090ys.com
+DOMAIN-SUFFIX,baolq666.com
+DOMAIN-SUFFIX,85io2.cn
+DOMAIN-SUFFIX,tuodupingguomiao.com
+DOMAIN-SUFFIX,xn--xhq9mt12cf5v.website
+DOMAIN-SUFFIX,mahinn.com
+DOMAIN-SUFFIX,kabizan.com
+DOMAIN-SUFFIX,txzs168.net
+DOMAIN-SUFFIX,wa11ace.net
+
+
+
+#bde4.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN,api.shjrwh.cn
+
+#daishuxiazai leidianxiazai
+DOMAIN-SUFFIX,api.budejie.com
+DOMAIN-SUFFIX,bkt.clouddn.com
