@@ -1,6 +1,3 @@
-# 合并EasyList、EasyListChina、ilpl、ad-wars、yDOMAINs、filters、DOMAINsY、AdGuard Chinese filter
-
-# adblock rules refresh time: 2020-06-20 12:01:46
 DOMAIN-SUFFIX,0--e.info
 DOMAIN,0.r.msn.com
 DOMAIN,0.solo84.biz
