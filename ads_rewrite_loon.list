@@ -1,4 +1,4 @@
-hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,*.tzfile.com,*.zxzjs.com,*.1993s.top,*.zxzj.me,*.952780.com,*.dvdhd.me,dvdhd.me,*.nfmovies.com,*.1090ys.com,*.7384tv.com,dyncdn.me
+hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,*.tzfile.com,*.zxzjs.com,*.1993s.top,*.zxzj.me,*.952780.com,*.dvdhd.me,dvdhd.me,*.nfmovies.com,*.1090ys.com,*.7384tv.com,dyncdn.me,dyncdn2.me
 
 # > bd-film.cc
 ^https:\/\/s\.7384tv\.com\/bdfilm_v3\/js\/cms-gg\.js - reject
@@ -28,4 +28,4 @@ hostname = btio.pw,*.javlibrary.com,*.h28o.com,bitport.io,*.tzfile.com,*.zxzjs.c
 ^http:\/\/js\.mintehao\.com\/lunbo\.js - reject
 
 # > rarbgprx.org
-^https:\/\/dyncdn\.me\/static\/20\/js\/(.{1,10})\.js - reject
+^https:\/\/(dyncdn|dyncdn2)\.me\/static\/20\/js\/(.{1,8})\.js - reject
